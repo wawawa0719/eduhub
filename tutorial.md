@@ -63,6 +63,7 @@ WindowsにおけるMySQLの導入は語ると長くなってしまうため、�
     次に、必要なライブラリをインストールします。
     ```bash
     npm install
+    npm install dotenv
     ```
 
 2.  **フロントエンドのセットアップ**:
